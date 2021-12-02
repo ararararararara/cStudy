@@ -1,0 +1,14 @@
+﻿  consoleMain.cpp
+  mainGame.cpp
+  wallet.cpp
+C:\Users\KGA-009\Documents\카카오톡 받은 파일\20211202_shop\wallet.h(16,7): error C3646: 'coinKind': 알 수 없는 재정의 지정자입니다.
+C:\Users\KGA-009\Documents\카카오톡 받은 파일\20211202_shop\wallet.h(16,15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\KGA-009\Documents\카카오톡 받은 파일\20211202_shop\wallet.cpp(6,8): error C2039: 'coinKind': 'tagWalletInfo'의 멤버가 아닙니다.
+C:\Users\KGA-009\Documents\카카오톡 받은 파일\20211202_shop\wallet.h(13): message : 'tagWalletInfo' 선언을 참조하십시오.
+C:\Users\KGA-009\Documents\카카오톡 받은 파일\20211202_shop\wallet.cpp(6,19): error C2065: 'COIN_BIT': 선언되지 않은 식별자입니다.
+C:\Users\KGA-009\Documents\카카오톡 받은 파일\20211202_shop\wallet.cpp(15,8): error C2039: 'coinKind': 'tagWalletInfo'의 멤버가 아닙니다.
+C:\Users\KGA-009\Documents\카카오톡 받은 파일\20211202_shop\wallet.h(13): message : 'tagWalletInfo' 선언을 참조하십시오.
+C:\Users\KGA-009\Documents\카카오톡 받은 파일\20211202_shop\wallet.cpp(15,19): error C2065: 'COIN_BIT': 선언되지 않은 식별자입니다.
+C:\Users\KGA-009\Documents\카카오톡 받은 파일\20211202_shop\wallet.cpp(28,16): error C2039: 'coinKind': 'tagWalletInfo'의 멤버가 아닙니다.
+C:\Users\KGA-009\Documents\카카오톡 받은 파일\20211202_shop\wallet.h(13): message : 'tagWalletInfo' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
